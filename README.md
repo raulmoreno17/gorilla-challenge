@@ -17,7 +17,7 @@ For Users, Products and Orders, show tables with pagination with 10 items per pa
 
 Orders should show the user’s information as well as the list of products of that order and display the calculated total
 
-Requirements achieved
+# Requirements achieved:
   Page is responsive
   All data manipulation have been done with arrays/objects, NO hardcoded values
   The code must be uploaded to a repository (Github, Bitbucket, SourceForge, etc) 
