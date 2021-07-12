@@ -7,10 +7,10 @@ Read the xlsx file and convert it into a json object.
 It has 3 main modules: Dashboard, Users, Products and Orders.
 
 Dashboard shows 5 tiles with:
-  latest 5 Users created
-  latest 5 products created
-  latest 5 orders created
-  Chart with the 5 most sale products
+  latest 5 Users created,
+  latest 5 products created,
+  latest 5 orders created,
+  Chart with the 5 most sale products,
   Chart with the 12 months/num or orders of that month
   
 For Users, Products and Orders, show tables with pagination with 10 items per page as well as arrows/numbers to navigate.
