@@ -25,6 +25,10 @@ Orders should show the user’s information as well as the list of products of t
   * Serve/Build Code
   * README.md
 
+![](images/screen_1.png)
+
+![](images/screen_2.png)
+
 ## Project setup
 This project uses some external dependencies like Vuetify and xlsx , please execute the following command before running the project
 ```
